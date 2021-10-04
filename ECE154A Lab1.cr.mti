@@ -1,0 +1,15 @@
+/fs/student/haoranwang/ece154a/lab1/zz_alu.v {1 {vlog -work work -vopt -stats=none /fs/student/haoranwang/ece154a/lab1/zz_alu.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module zz_alu
+
+Top level modules:
+	zz_alu
+
+} {} {}} /fs/student/haoranwang/ece154a/lab1/alu.v {1 {vlog -work work -vopt -stats=none /fs/student/haoranwang/ece154a/lab1/alu.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
