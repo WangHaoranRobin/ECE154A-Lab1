@@ -1,0 +1,8 @@
+/fs/student/zhiwen_wu/ECE154A/ECE154A-Lab1/zz_alu.v {1 {vlog -work lab1 -vopt -stats=none /fs/student/zhiwen_wu/ECE154A/ECE154A-Lab1/zz_alu.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module zz_alu
+
+Top level modules:
+	zz_alu
+
+} {} {}}
